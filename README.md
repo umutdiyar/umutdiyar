@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=umutdiyar&color=blueviolet)
+
 <h1 align="center">Hi 👋, I'm Umut Diyar</h1>
 <h3 align="center">I'm a software developer</h3>
 
