@@ -20,11 +20,11 @@
 <h2 align="center">Tech Overview</h2>
 <br />
 <p align="center">
-  <img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwind CSS-198CFF?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd500?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwind CSS-198CFF?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <br />
