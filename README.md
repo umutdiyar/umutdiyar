@@ -20,6 +20,8 @@
 <h2 align="center">Tech Overview</h2>
 <br />
 <p align="center">
+   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd500?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
