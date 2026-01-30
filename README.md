@@ -53,6 +53,11 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutdiyar&theme=gotham&show_icons=true" width="446"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umutdiyar&show_icons=true&theme=gotham&locale=en&layout=compact" width="400" />
+
+![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutdiyar&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutdiyar&layout=compact&theme=gotham)
+
 </p>
+
+
