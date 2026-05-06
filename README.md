@@ -49,15 +49,7 @@
 </p>
 
 <br />
-<hr style="border:0.5px solid #ddd" />
-<br />
 
-<p align="center">
 
-![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutdiyar&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutdiyar&layout=compact&theme=gotham)
-
-</p>
 
 
